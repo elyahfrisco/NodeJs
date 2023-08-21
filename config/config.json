@@ -1,0 +1,25 @@
+{
+  "development": {
+    "username": "root",
+    "password": null,
+    "database": "moveasy",
+    "port":3307,
+    "host": "localhost",
+    "dialect": "mysql"
+    
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "moveasy",
+    "port":3307,
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "username": "root",
+    "password": null,
+    "database": "moveasy",
+    "port":3307,
+    "host": "localhost",
+    "dialect": "mysql"
+}
